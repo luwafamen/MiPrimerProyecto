@@ -1,5 +1,5 @@
 function saludar(){
 
-    alert("Hola Git!");
+    alert("Hola ChatGPT!");
 
 }
