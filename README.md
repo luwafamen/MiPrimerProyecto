@@ -1,6 +1,6 @@
 # Mi Primer Proyecto Profesional
 
-Este es mi primer proyecto profesional usando Git y Cursor.
+Este proyecto fue modificado desde la rama conflicto.
 
 Fecha: 26/06/2026
 Estamos trabajando en la rama desarrollo.
